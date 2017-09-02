@@ -1,3 +1,7 @@
+# Project no longer active
+
+Due to changes from http://www.omdbapi.com/ on requirements of API keys, this project is unable to fetch data requests for movie results. 
+
 # movie-description-engine
 
 This project allows for a person to search for any movie term they desire.
